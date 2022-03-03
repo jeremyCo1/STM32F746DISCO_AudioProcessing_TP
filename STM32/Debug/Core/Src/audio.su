@@ -1,0 +1,12 @@
+audio.c:123:6:audioLoop	8	static,ignoring_inline_asm
+audio.c:178:13:accumulateInputLevels	24	static
+audio.c:209:6:HAL_SAI_RxCpltCallback	16	static
+audio.c:217:6:HAL_SAI_RxHalfCpltCallback	16	static
+audio.c:232:14:readFloatFromSDRAM	24	static
+audio.c:244:13:writeFloatToSDRAM	24	static
+audio.c:256:16:readInt16FromSDRAM	24	static
+audio.c:268:13:writeInt16ToSDRAM	24	static
+audio.c:287:13:processAudio	24	static
+audio.c:303:13:processAudioSDRAM	32	static
+audio.c:325:13:processAudioSDRAM_Delay	40	static
+audio.c:363:13:storeInSDRAM	24	static
